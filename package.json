@@ -1,0 +1,20 @@
+{
+  "name": "node-workshop-mark-liam",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://LTBurton1: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@github.com/SchoolOfCode/node-101-workshop-mark-liam.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SchoolOfCode/node-101-workshop-mark-liam/issues"
+  },
+  "homepage": "https://github.com/SchoolOfCode/node-101-workshop-mark-liam#readme"
+}
